@@ -13,3 +13,8 @@ void bubble_sort( int A[ ], int n ) {
            }
      }
  }
+
+int main(){
+      int A={1,8,5,45,9};
+      bubble_sort(A,5);
+}
